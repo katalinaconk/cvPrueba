@@ -1,0 +1,41 @@
+body {
+    padding: 0%;
+    margin: 0;
+}
+
+body * {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1, h2 {
+    font-weight: 500;
+    color: hsl(0, 0%, 29%);
+    font-size: 3.75em;
+}
+
+p {
+    font-weight: 300;
+    color: #4A4A4A;
+    font-size: 1.25em;
+}
+
+.sobremi {
+    background-color: #F8F4F2;
+}
+
+.portafolio {
+    background-color: #F9D9C9;
+}
+
+.form-group {
+    font-weight: 300;
+}
+
+footer {
+    background-color: #F2E8DD;
+}
+
+.icon {
+    color: black;
+}
+
