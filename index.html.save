@@ -101,8 +101,7 @@
        <div class="card">
          <img src="./assets/img/Sin-título-1.jpg" class="card-img-top" alt="...">
          <div class="card-body">
-           <h5 class="card-title">Card title</h5>
-           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+           <h5 class="card-title">Card title</h5>           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
          </div>
        </div>
      </div>
@@ -139,9 +138,9 @@
             <footer class="container-fluid text-center text-light mt-5">
                 <img class="py-5" src="./assets/img/logo2.png" alt="logo">
               <div class="icon pb-5">
-                <a href="https://github.com"><i class="fab fa-github-square fa-2x icon"></i></a>
-                <a href="https://twitter.com"><i class="fab fa-twitter-square fa-2x icon"></i></a>
-                <a href="https://www.linkedin.com"><i class="fab fa-linkedin fa-2x icon"></i></a>
+                <a href="https://github.com"><i class="fab fa-github-square fa-2x"></i></a>
+                <a href="https://twitter.com"><i class="fab fa-twitter-square fa-2x"></i></a>
+                <a href="https://www.linkedin.com"><i class="fab fa-linkedin fa-2x"></i></a>
                 <p>Todos los derechos reservados.</p>
               </div>
             </footer>
