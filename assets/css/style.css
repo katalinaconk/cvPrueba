@@ -1,5 +1,5 @@
 body {
-    padding: 0%;
+    padding: 0;
     margin: 0;
 }
 
@@ -7,10 +7,16 @@ body * {
     font-family: 'Raleway', sans-serif;
 }
 
-h1, h2 {
+h1 {
     font-weight: 500;
     color: hsl(0, 0%, 29%);
     font-size: 3.75em;
+}
+
+h2 {
+    font-weight: 500;
+    color: hsl(0, 0%, 29%);
+    font-size: 3.00em;
 }
 
 p {
@@ -24,7 +30,7 @@ p {
 }
 
 .portafolio {
-    background-color: #F9D9C9;
+    background-color: #f2e8dd;
 }
 
 .form-group {
